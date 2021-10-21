@@ -1,4 +1,4 @@
-- Hi, I’m @GabrielleMattos
+- Hi, I’m GabrielleMattos
 - I study Analysis and Systems Development, and want to learn more and help the comunity of dervs.
 - I'm from Brazil, specifically Rio de Janeiro
 - You can also find me in my Instragram acount @gabbemattos
